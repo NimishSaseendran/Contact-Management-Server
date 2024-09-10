@@ -1,0 +1,27 @@
+{
+  "userLogin": [
+    {
+      "fullname": "ajith",
+      "phone": "987",
+      "email": "ajith@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "fullname": "sajith",
+      "phone": "65641",
+      "email": "sajith@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "fullname": "test",
+      "phone": "654",
+      "email": "test@gmail.com",
+      "password": "test",
+      "id": 6
+    }
+  ],
+  "employee": [],
+  "listRole": []
+}
